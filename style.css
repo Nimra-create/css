@@ -1,0 +1,33 @@
+/*
+    color: blueviolet;
+}*/
+/*type selector*/
+/*span{
+    color: aqua;
+}
+*/
+
+/*class selector*/
+/*.note{
+    color: red;
+}
+/*idselector*/
+/*#my-id{
+    color: red;
+}*/
+/*selectorchild */
+/*span>p{
+    color: red;
+}*/
+/*descendant*/
+/*div p{
+    color: aliceblue;
+}*/
+/*adjacent selector*/
+/* h1+p
+    color: blue;
+}
+/*generalsiblingselector*/
+h1~p{
+    color: brown;
+}
